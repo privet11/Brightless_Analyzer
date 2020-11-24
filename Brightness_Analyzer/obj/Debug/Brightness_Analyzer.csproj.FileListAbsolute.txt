@@ -1,0 +1,9 @@
+C:\Users\Andriy\source\repos\Brightness_Analyzer\Brightness_Analyzer\bin\Debug\Brightness_Analyzer.exe.config
+C:\Users\Andriy\source\repos\Brightness_Analyzer\Brightness_Analyzer\bin\Debug\Brightness_Analyzer.exe
+C:\Users\Andriy\source\repos\Brightness_Analyzer\Brightness_Analyzer\bin\Debug\Brightness_Analyzer.pdb
+C:\Users\Andriy\source\repos\Brightness_Analyzer\Brightness_Analyzer\obj\Debug\Brightness_Analyzer.csprojAssemblyReference.cache
+C:\Users\Andriy\source\repos\Brightness_Analyzer\Brightness_Analyzer\obj\Debug\Brightness_Analyzer.Form1.resources
+C:\Users\Andriy\source\repos\Brightness_Analyzer\Brightness_Analyzer\obj\Debug\Brightness_Analyzer.Properties.Resources.resources
+C:\Users\Andriy\source\repos\Brightness_Analyzer\Brightness_Analyzer\obj\Debug\Brightness_Analyzer.csproj.GenerateResource.cache
+C:\Users\Andriy\source\repos\Brightness_Analyzer\Brightness_Analyzer\obj\Debug\Brightness_Analyzer.exe
+C:\Users\Andriy\source\repos\Brightness_Analyzer\Brightness_Analyzer\obj\Debug\Brightness_Analyzer.pdb
